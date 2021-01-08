@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://tecibite1979.github.io/sitemap.xml
